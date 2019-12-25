@@ -1,0 +1,8 @@
+body.night {
+    background-color: #202020;
+    color: #ffffff;
+}
+body.day {
+    background-color: #ffffff;
+    color: #202020;
+}
